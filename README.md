@@ -32,3 +32,10 @@ video: https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepag
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
+
+## 🎓 求职意向
+
+目前21岁，应届毕业生，热爱前端、技术与设计。
+
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1tdVhzpEXw?t=286.1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click" frameborder="0" allowfullscreen></iframe>
