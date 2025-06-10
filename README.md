@@ -9,7 +9,7 @@
 ## 📱 社交主页
 
 <a href="https://space.bilibili.com/393842136">
-  <img height="24" width="24" src="./img/bilibili.png" />
+  <img height="32" width="32" src="./img/bilibili.png" />
 </a>bilibili
 
 <img align="right" alt="GIF" src="./img/code.gif" width="430" />
@@ -17,14 +17,17 @@
 
 ## 💼 技术栈
 
-| 前端框架                                                                   | 工具链                                                                                           | 其他                                                                           |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [Vue](https://v3.cn.vuejs.org) <img height="20" src="./images/vue.png" />  | [Webpack](https://webpack.js.org/) <img height="20" src="./images/webpack.svg" />                | [Go](https://go.dev/) <img height="20" src="./images/golang.png" />            |
-| [React](https://reactjs.org/) <img height="20" src="./images/react.svg" /> | [Vite](https://cn.vitejs.dev) <img height="20" src="./images/vite.png" />                        | [Docker](https://www.docker.com) <img height="20" src="./images/docker.png" /> |
-| [Next.js](https://nextjs.org/) <img height="20" src="./images/next.png" /> | [TypeScript](https://www.tslang.cn/index.html) <img height="20" src="./images/typescript.png" /> |                                                                                |
-|                                                                            | [Sass](https://sass-lang.com) <img height="20" src="./images/sass2.png" />                       |                                                                                |
-|                                                                            | [Tailwind CSS](https://tailwindcss.com) <img height="20" src="./images/tailwindcss.png" />       |                                                                                |
-
+- [Vue](https://v3.cn.vuejs.org) <img height="20" src="./img/vue.png" />
+- [React](https://reactjs.org/) <img height="20" src="./img/react.svg" />
+- [Next.js](https://nextjs.org/) <img height="20" src="./img/next.png" />
+- [Nuxt.js](https://nuxtjs.org.cn/) <img height="20" src="./img/NUXTJS.png" />
+- [TypeScript](https://www.tslang.cn/index.html) <img height="20" src="./img/typescript.png" />
+- [Vite](https://cn.vitejs.dev) <img height="20" src="./img/vite.png" />
+- [Sass](https://sass-lang.com) <img height="20" src="./img/sass.png" />
+- [Tailwind CSS](https://tailwindcss.com) <img height="20" src="./img/tailwindcss.png" />
+- [Element](https://element-plus.org) <img height="20" src="./img/element plus.svg" />
+- [Naive](https://www.naiveui.com/) <img height="20" src="./img/naivelogo.svg" />
+                                                                              
 ## 📚 参与项目
 
 <a href="https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click" width="100%" height="100%" controls="controls">
