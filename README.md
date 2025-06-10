@@ -1,11 +1,10 @@
+
+## 前端开发
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=%E2%80%8CBarlow&weight=900&size=42&pause=1500&color=2EB8F7&vCenter=true&width=880&height=120&lines=I+am+Corcky%2C+a+visual+front-end+developer.;22+now%2C+come+and+get+to+know+me.;Glad+to+progress+together+with+you!)](https://git.io/typing-svg)
+
 <img align="right" src="https://count.getloli.com/get/@:Corcky0hjh?theme=rule34">
 
-## 全栈开发
-
-👋 你好！我是 Corcky
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=2300&vCenter=true&width=435&height=60&lines=I+am+Corcky%2C+a+visual+front-end+developer)](https://git.io/typing-svg)
-
-热爱前端、技术与设计。
 
 ## 📱 社交主页
 
