@@ -35,7 +35,7 @@
 <img align="right" alt="GIF" src="./img/鹿见.png" width="430" />
 </a>
 
-<div style="height:50px;weight:100%;background-color:red;"></div>
+<div style="height:50px;weight:100%;background-color:red"></div>
 
 ##  GitHub 活跃度
 
