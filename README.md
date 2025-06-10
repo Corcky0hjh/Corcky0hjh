@@ -3,6 +3,7 @@
 ## 全栈开发
 
 👋 你好！我是 Corcky
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=2300&vCenter=true&width=435&height=60&lines=I+am+Corcky%2C+a+visual+front-end+developer)](https://git.io/typing-svg)
 
 热爱前端、技术与设计。
 
