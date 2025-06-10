@@ -28,11 +28,11 @@
 ## 📚 参与项目
 
 <a href="https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click" width="50%" height="100%" controls="controls">
-<img alt="" src="./img/毕设.jpg" width="100%" />
+<img alt="" src="./img/毕设.jpg" width="50%" />
 </a>
 
 <a href="https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click" width="50%" height="100%" controls="controls">
-<img alt="" src="./img/鹿见.png" width="100%" />
+<img alt="" src="./img/鹿见.png" width="50%" />
 </a>
 
 ## GitHub 活跃度
