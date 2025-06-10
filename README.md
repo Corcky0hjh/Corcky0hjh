@@ -1,15 +1,19 @@
-# 前端开发—Corcky
+<img align="right" src="https://count.getloli.com/get/@:Corcky0hjh?theme=rule34">
+# 全栈开发
 
-👋 21岁-应届生
+👋 你好！我是Corcky。
+21岁-应届生
 热爱前端、技术与设计。
 
 ## 📱 社交主页
 
-<a href="https://juejin.cn/user/1214304985296439/posts">
-  <img height="20" width="50" src="./images/juejin.png" />
-</a>：掘金账号
+<a href="https://space.bilibili.com/393842136">
+  <img height="40" width="40" src="./img/bilibili.png" />
+</a>：B站
 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" />
+<video src="https://cdn.jsdelivr.net/gh/dev2dev/img-hosting@latest/video.mp4" width="100%" height="100%" controls="controls"></video>
+video: https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click
 
 ## 💼 技术栈
 
