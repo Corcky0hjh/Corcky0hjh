@@ -50,8 +50,8 @@
 
 ![Corcky0hjh's github stats](https://github-readme-stats.vercel.app/api?username=Corcky0hjh&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corcky0hjh&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Corcky0hjh&layout=compact&langs_count=6)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corcky0hjh&langs_count=6)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corcky0hjh&layout=donut)](https://github.com/Corcky0hjh/github-readme-stats)
