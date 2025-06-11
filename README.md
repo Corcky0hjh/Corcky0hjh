@@ -6,13 +6,13 @@
 <img align="right" src="https://count.getloli.com/get/@:Corcky0hjh?theme=rule34">
 
 
-### **📱 社交主页**
+## **📱 社交主页**
 
 <a href="https://space.bilibili.com/393842136"><code><img height="32" width="32" src="./img/bilibili.png" /></code></a>bilibili
 
 <img align="right" alt="GIF" src="./img/code.gif" width="430" />
 
-### **💼 技术栈**
+## **💼 技术栈**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./img/vue.png" /></code></a>
 <a href="https://reactjs.org"><code><img height="20" src="./img/react.svg" /></code></a>
@@ -25,7 +25,7 @@
 <a href="https://element-plus.org"><code><img height="20" src="./img/element plus.svg" /></code></a>
 <a href="https://www.naiveui.com/"><code><img height="20" src="./img/naivelogo.svg" /></code></a>
 
-### **📚 参与项目**
+## **📚 参与项目**
 
 <a href="https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click" width="100%" height="100%" controls="controls">
 <img style="text-align:right" alt="" src="./img/毕设.jpg" width="420" />
@@ -37,7 +37,7 @@
 </a>
 -《鹿见》蓝桥杯AIGC创意设计国一
 
-### **活跃度**
+## **活跃度**
 
 [![](https://activity-graph.herokuapp.com/graph?username=Corcky0hjh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -45,6 +45,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corcky0hjh&langs_count=6)
 
-### **🎓 求职意向**
+## **🎓 求职意向**
 
 目前 21 岁，应届毕业生，热爱前端、技术与设计。
