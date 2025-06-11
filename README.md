@@ -37,12 +37,14 @@
 <a href="https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click" width="100%" height="100%" controls="controls">
 <img alt="" src="./img/毕设.jpg" width="420" />
 </a>
-###《Customverse》视觉化客制化社区
+
+### 《Customverse》视觉化客制化社区
 
 <a href="https://www.bilibili.com/video/BV1tdVhzpEXw/?spm_id_from=333.1387.homepage.video_card.click" width="100%" height="100%" controls="controls">
 <img alt="" src="./img/鹿见.png" width="420" />
 </a>
-###《鹿见》蓝桥杯AIGC创意设计国一
+
+### 《鹿见》蓝桥杯AIGC创意设计国一
 
 ## **活跃度**
 
