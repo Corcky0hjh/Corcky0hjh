@@ -10,7 +10,7 @@
 
 <a href="https://space.bilibili.com/393842136"><code><img height="32" width="32" src="./img/bilibili.png" /></code></a>bilibili
 
-<img  style="text-align:right" alt="GIF" src="./img/code.gif" width="430" />
+<img  align="right" alt="GIF" src="./img/code.gif" width="430" />
 </br>
 </br>
 </br>
