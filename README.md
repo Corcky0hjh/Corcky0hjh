@@ -1,10 +1,8 @@
+<img  align="right" src="https://count.getloli.com/get/@:Corcky0hjh?theme=rule34">
 
 ## **👋 个人信息**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=%E2%80%8CBarlow&weight=900&size=42&pause=1500&color=2EB8F7&vCenter=true&width=880&height=120&lines=I+am+Corcky%2C+a+visual+front-end+developer.;22+now%2C+come+and+get+to+know+me.;Glad+to+progress+together+with+you!)](https://git.io/typing-svg)
-
-<img  align="right" src="https://count.getloli.com/get/@:Corcky0hjh?theme=rule34">
-
 
 ## **📱 社交主页**
 
