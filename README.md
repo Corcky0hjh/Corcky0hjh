@@ -1,5 +1,5 @@
 
-## 个人信息
+## **👋 个人信息**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=%E2%80%8CBarlow&weight=900&size=42&pause=1500&color=2EB8F7&vCenter=true&width=880&height=120&lines=I+am+Corcky%2C+a+visual+front-end+developer.;22+now%2C+come+and+get+to+know+me.;Glad+to+progress+together+with+you!)](https://git.io/typing-svg)
 
@@ -51,7 +51,7 @@
 
 ### 《鹿见》蓝桥杯AIGC创意设计国一
 
-## **活跃度**
+## **📈 活跃度**
 
 [![](https://activity-graph.herokuapp.com/graph?username=Corcky0hjh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
