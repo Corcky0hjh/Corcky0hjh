@@ -3,14 +3,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=%E2%80%8CBarlow&weight=900&size=42&pause=1500&color=2EB8F7&vCenter=true&width=880&height=120&lines=I+am+Corcky%2C+a+visual+front-end+developer.;22+now%2C+come+and+get+to+know+me.;Glad+to+progress+together+with+you!)](https://git.io/typing-svg)
 
-<img align="right" src="https://count.getloli.com/get/@:Corcky0hjh?theme=rule34">
+<img  style="text-align:right" src="https://count.getloli.com/get/@:Corcky0hjh?theme=rule34">
 
 
 ## **📱 社交主页**
 
 <a href="https://space.bilibili.com/393842136"><code><img height="32" width="32" src="./img/bilibili.png" /></code></a>bilibili
 
-<img align="right" alt="GIF" src="./img/code.gif" width="430" />
+<img  style="text-align:right" alt="GIF" src="./img/code.gif" width="430" />
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## **💼 技术栈**
 
